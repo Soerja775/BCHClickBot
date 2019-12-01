@@ -1,6 +1,6 @@
 # BCHClickBot
 # Link BCHClickBot Telegram
-Hargai Refferal : https://t.me/BCH_clickbot?start=gVzb
+Hargai Refferal : https://t.me/BCH_clickbot?start=dYem
 
 # Cara Install 
 $ pkg update && pkg upgrade<br>
